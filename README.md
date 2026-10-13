@@ -14,4 +14,3 @@ Output
 ```
 
 _© 2023 XYZ, Inc._
-Changed the footer of the README.md file from “2022 XYZ, Inc.” to “2023 XYZ, Inc.”
